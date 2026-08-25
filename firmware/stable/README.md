@@ -1,0 +1,1 @@
+Firmware stabili CAPO MAST.
