@@ -2,13 +2,13 @@
   "enabled": true,
   "product": "CAPO MAST",
   "channel": "stable",
-  "version": "1.0.1a",
+  "version": "1.0.2b",
   "hardware": "ES3C28P-ESP32S3",
-  "min_version": "1.0.0",
-  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.0.1a.bin",
-  "size": 1293888,
-  "sha256": "315bb67939fe477c1f08b580b728fd72207fb785b01644aef9dc0a8d2a74ebf3",
+  "min_version": "1.0.1a",
+  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.0.2b.bin",
+  "size": 1295088,
+  "sha256": "c5f0d489f41e35d2e699d7a79a581b19d0ef94abb3e6a01253390482ac359abb",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEUCIExfG7/I4/SlUFvmDyQx0sPrTlcWVCU1uRSyfdp9YCxVAiEA/YmLzzJspzc3M0NldxmJGGUfgOf5ZX/54E21ipO97wI=",
-  "notes": "Calibrazione touch 9 punti e OTA firmato."
+  "signature": "MEUCIQCocAY0DgCdJ+nakEz0k6ub4/o7Ku6cNlffqE7PttdaDQIgU31ebddZMJUyN7rqaGkA4nowvwIC+kKtHDhyQ/18snE=",
+  "notes": "Wi-Fi automatico, schermata OTA corretta, slider luminosità migliorato, Home aggiornata."
 }
