@@ -1,12 +1,14 @@
 {
-  "enabled": false,
+  "enabled": true,
   "product": "CAPO MAST",
   "channel": "stable",
-  "version": "0.0.0",
-  "hardware": "ESP32-2432S028R-V2",
-  "min_version": "0.0.0",
-  "url": "",
-  "size": 0,
-  "sha256": "",
-  "notes": "OTA Internet non ancora attivo. Manifest preparato per il primo firmware reale."
+  "version": "1.0.1a",
+  "hardware": "ES3C28P-ESP32S3",
+  "min_version": "1.0.0",
+  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.0.1a.bin",
+  "size": 1293888,
+  "sha256": "315bb67939fe477c1f08b580b728fd72207fb785b01644aef9dc0a8d2a74ebf3",
+  "signature_alg": "ECDSA_P256_SHA256",
+  "signature": "MEUCIExfG7/I4/SlUFvmDyQx0sPrTlcWVCU1uRSyfdp9YCxVAiEA/YmLzzJspzc3M0NldxmJGGUfgOf5ZX/54E21ipO97wI=",
+  "notes": "Calibrazione touch 9 punti e OTA firmato."
 }
