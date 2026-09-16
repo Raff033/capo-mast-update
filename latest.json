@@ -3,14 +3,14 @@
   "enabled": true,
   "product": "CAPO MAST",
   "channel": "stable",
-  "version": "1.1.0.1",
-  "build": 11001,
+  "version": "1.1.0.2",
+  "build": 11002,
   "hardware": "ES3C28P-ESP32S3",
-  "min_version": "1.0.5.1",
-  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.1.0.1.bin",
-  "size": 1287712,
-  "sha256": "409f734daa039f53ef39b7a8761370a6130042f128ff45ee60b355a8840385f2",
+  "min_version": "1.1.0.1",
+  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.1.0.2.bin",
+  "size": 1288544,
+  "sha256": "ee61763b2b1a8c2398f8f88a81ff838d72041a2034ecfbc9d61e44ccc0609c0a",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEYCIQCaAFYryMGbUTP1OE20rn9UyPpaQyJX+DD3gHkjsB7uBgIhAKN3W/WNts35N73XRWZza5F6nVCWW9XQOj5EaT3HJy8e",
-  "notes": "Versione definitiva: ottimizzazioni interne, rollback OTA, recovery BOOT, Wi-Fi reconnect, self-test, diagnostica developer, backup V4, manifest OTA V2, TLS con CA."
+  "signature": "MEYCIQDd2zCr7+Te/OyEnON7jX3rmvXs+mt65lvIkaGtIdbOLgIhAIQ4MJVLmw/yzHQbD9938TaNHnLBVuBOoK2ojGuW8Umj",
+  "notes": "Aggiornamento UI: conferma OK per colore preset, cambio categoria con preset immediato e menu a tendina per spegnimento display."
 }
