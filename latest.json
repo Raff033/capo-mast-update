@@ -3,14 +3,14 @@
   "enabled": true,
   "product": "CAPO MAST",
   "channel": "stable",
-  "version": "1.1.0.2",
-  "build": 11002,
+  "version": "1.1.2.1",
+  "build": 11201,
   "hardware": "ES3C28P-ESP32S3",
-  "min_version": "1.1.0.1",
-  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.1.0.2.bin",
-  "size": 1288544,
-  "sha256": "ee61763b2b1a8c2398f8f88a81ff838d72041a2034ecfbc9d61e44ccc0609c0a",
+  "min_version": "1.1.0.0",
+  "url": "https://raff033.github.io/capo-mast-update/firmware/stable/CAPO_MAST_1.1.2.1.bin",
+  "size": 1349664,
+  "sha256": "852702a4e5daeea4078388ddc165ea25f9cbdbec6dd8744d86a5e8b7a9ec2327",
   "signature_alg": "ECDSA_P256_SHA256",
-  "signature": "MEYCIQDd2zCr7+Te/OyEnON7jX3rmvXs+mt65lvIkaGtIdbOLgIhAIQ4MJVLmw/yzHQbD9938TaNHnLBVuBOoK2ojGuW8Umj",
-  "notes": "Aggiornamento UI: conferma OK per colore preset, cambio categoria con preset immediato e menu a tendina per spegnimento display."
+  "signature": "MEUCIAegTRqMIFBabEO+mPKqUv8Izwf3zYkxd5MV2rlzi/N8AiEAq4krJ98ejtQCCl1WsW7p8UdEjPllWRRQg7p4b99YZ6w=",
+  "notes": "Aggiornamento: 100 cartelle show, fino a 200 preset per cartella, colore preset attivo in Home, popup eliminazione con nome e scorrimento lista preset senza lampeggio."
 }
